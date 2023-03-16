@@ -2,6 +2,7 @@ body {
     width: 510px;
     margin: 4% auto;
     font-family: 'Source Sans Pro', sans-serif;
+    text-align: center;
     letter-spacing: 5px;
     font-size: 1.8rem;
     -moz-user-select: none;
